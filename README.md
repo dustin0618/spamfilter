@@ -15,3 +15,4 @@ user flow
     ↓
 [사용자: 새로운 메시지 입력 → 반복]
 
+https://github.com/dustin0618/spamfilter/issues/1#issue-2746712195
